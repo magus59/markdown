@@ -58,20 +58,6 @@ Utilise les `#` pour les titres :
 
 ---
 
-## 4. Liens et images
-
-```markdown
-[Texte du lien](https://example.com)
-
-![Texte alternatif](https://via.placeholder.com/100)
-```
-
-### Résultat :
-[Texte du lien](https://example.com)  
-![Texte alternatif](https://via.placeholder.com/100)
-
----
-
 ## 5. Code
 
 ### En ligne :
